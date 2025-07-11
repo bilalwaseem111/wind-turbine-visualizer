@@ -49,7 +49,7 @@ st.markdown("""
             text-align: center;
             font-weight: bold;
             padding-top: 30px;
-            color: #fff;
+            color: #000000;
         }
 
        .stApp {
